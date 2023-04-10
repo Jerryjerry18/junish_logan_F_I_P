@@ -615,6 +615,9 @@ background-color: orange;
       align-self: center;
    }
 
+   #animation-11{
+margin-left: 200px;
+   }
    
 
    #contact{
@@ -1599,3 +1602,15 @@ translate: 550px 0px;
  }
 
 
+.error-ani{
+   background:url(../images/ani.gif) no-repeat;
+   margin-left:60px;
+   background-size:cover;
+   margin-bottom:190px;
+}
+
+
+#animation-11{
+   margin-bottom:100px;
+   align-self:center;
+}
