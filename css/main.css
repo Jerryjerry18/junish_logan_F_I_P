@@ -875,7 +875,7 @@ margin-left: 200px;
       text-decoration: none;
 }
 
-.lightbox_close_main:hover { opacity: 0.5; color: orange; }
+.lightbox_close_main:hover { opacity: 0.5; color: grey; }
 
 .lightbox-main article {
       width: 80%;
@@ -1192,7 +1192,7 @@ background-color: grey;
 
 .lightbox-contact-us {
    width: 79vw; 
-   height: 27vh; 
+   height: 40vh; 
    position: absolute;
    top: 50%;
    left: 10%;
@@ -1211,7 +1211,7 @@ background-color: grey;
 }
 
 
-.lightbox_close-contact-us:hover { opacity: 0.5; color: brown; }
+.lightbox_close-contact-us:hover { opacity: 0.5; color: grey; }
 
 .lightbox-contact-us article {
    width: 45%;
