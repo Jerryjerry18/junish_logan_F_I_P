@@ -615,6 +615,8 @@ background-color: orange;
       align-self: center;
    }
 
+   
+
    #contact{
       font-size: 43px !important;
    }
@@ -1186,31 +1188,23 @@ background-color: grey;
 
 
 .lightbox-contact-us {
-   width: 100vw;
-   height: 100vh;
-
+   width: 79vw; 
+   height: 27vh; 
    position: absolute;
-   top: 0;
-   left: 0;
-
-   background-color: rgba(30, 30, 30, 30.85);
-   background-image: url('../images/junish2.jpg');
-   background-repeat: no-repeat;
-
-   background-size: 55vh;
-   background-position: 40px center;
-
-   z-index: 5000;
-
+   top: 50%;
+   left: 10%;
+   background-color:orange;
+   z-index: 500;
    display: none;
 }
 
 
 .lightbox_close-contact-us{
-   margin-left: 1300px;
-   font-size: 40px;
+   position: relative;
+   top: 25px;
    color: white;
-   margin-bottom: -200px;
+   font-size: 4em;
+   text-decoration: none;
 }
 
 
@@ -1240,32 +1234,23 @@ background-color: grey;
 /* l */
 
 .lightbox1-contact-us {
-   width: 100vw;
-   height: 100vh;
-   margin-top: 50px;
-
+   width: 79vw; 
+   height: 27vh; 
    position: absolute;
-   top: 0;
-   left: 0;
-
-   background-color: rgba(30, 30, 30, 30.85);
-   background-image: url('../images/logan2.JPG');
-   background-repeat: no-repeat;
-
-   background-size: 55vh;
-   background-position: 40px center;
-
-   z-index: 5000;
-
+   top: 50%;
+   left: 10%;
+   background-color:orange;
+   z-index: 500;
    display: none;
 }
 
 
 .lightbox_close1-contact-us{
-   margin-left: 1300px;
-   font-size: 40px;
+   position: relative;
+   top: 25px;
    color: white;
-   margin-bottom: -200px;
+   font-size: 4em;
+   text-decoration: none;
 }
 
 
