@@ -1580,4 +1580,22 @@ translate: 550px 0px;
 }
 
 
+@media screen and ( min-width: 720px){
+  #hero-contact-us1{
+   margin-left:100px
+  }
+
+  #hero-contact-us2{
+   margin-left:100px
+  }
+}
+@media screen and ( min-width: 1000px){
+   #hero-contact-us1{
+    margin-left:250px
+   }
+   #hero-contact-us2{
+      margin-left:250px
+     }
+ }
+
 
